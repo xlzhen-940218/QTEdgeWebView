@@ -1,0 +1,14 @@
+-rootPath
+C:/QTWork/QTEdgeWebView
+-cmake-output
+-output-file
+C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/.qt_plugins/Qt6_QmlPlugins_Imports_appQTEdgeWebView.cmake
+-importPath
+C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/QTEdgeWebView
+-importPath
+C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release
+-importPath
+C:/Qt/6.5.3/msvc2019_64/./qml
+-qrcFiles
+C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/.rcc/qmake_QTEdgeWebView.qrc
+C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/.rcc/appQTEdgeWebView_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QTEdgeWebView">C:/QTWork/QTEdgeWebView/build/Desktop_x86_windows_msvc2022_pe_64bit-Release/QTEdgeWebView</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+module QTEdgeWebView
+typeinfo appQTEdgeWebView.qmltypes
+prefer :/QTEdgeWebView/
+
