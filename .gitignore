@@ -32,5 +32,6 @@
 *.app
 /VSProject/WebView2Library/x64
 /VSProject/WebViewCli/x64
+/VSProject/packages
 /build/Desktop_x86_windows_msvc2022_pe_64bit-Debug
 /build/Desktop_x86_windows_msvc2022_pe_64bit-Release
