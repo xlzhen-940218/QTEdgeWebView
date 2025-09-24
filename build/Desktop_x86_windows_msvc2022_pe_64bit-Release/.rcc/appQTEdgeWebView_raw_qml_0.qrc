@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/QTEdgeWebView/">
-    <file alias="main.qml">C:/QTWork/QTEdgeWebView/main.qml</file>
-  </qresource>
-</RCC>
-
