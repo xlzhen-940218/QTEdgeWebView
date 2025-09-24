@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/VSProject/WebView2Library/x64
+/VSProject/WebViewCli/x64
+/build
